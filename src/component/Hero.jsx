@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 const Hero = () => {
   return (
     <>
-      <main className='d-flex'>
+      <main className='d-flex main'>
         <div className='write-card'>
           <b className='manage'>Manage your Tasks on <br /> <p>Task duty</p></b>
           <p className='fw-semibold'>
