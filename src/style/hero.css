@@ -1,0 +1,31 @@
+main {
+  padding: 3rem 10rem;
+  /* justify-content: space-between; */
+  gap: 10rem;
+}
+
+.manage {
+  font-size: 36px;
+  color: black;
+}
+.manage p {
+  color: purple;
+}
+p {
+  color: grey;
+}
+.Link {
+  background-color: rgba(128, 0, 128, 0.779);
+  width: 1500px;
+  padding: 8px 15px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.write-card {
+  width: 470px;
+}
+
+img {
+  width: 90%;
+}

@@ -1,0 +1,24 @@
+input:nth-child(1) {
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+input:nth-child(2) {
+  padding: 1rem 1rem 7rem;
+  margin-bottom: 2rem;
+}
+
+select {
+  padding: 1rem;
+  border: 1px solid grey;
+}
+
+.done {
+  padding: .7rem;
+  border: none;
+  background-color: rgba(128, 0, 128, 0.779);
+  color: whitesmoke;
+  font-weight: bold;
+  border-radius: 9px;
+  margin-bottom: 2rem;
+}

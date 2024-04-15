@@ -1,0 +1,24 @@
+.content {
+  border: 1px solid rgba(128, 128, 128, 0.315);
+  margin-bottom: 2rem;
+  padding: 1rem .5rem;
+}
+
+button:nth-child(1) {
+  background-color: rgba(128, 0, 128, 0.779);
+  width: 50px;
+  border-radius: 5px;
+  font-size: 12px;
+}
+button:nth-child(2) {
+  background-color: white;
+  width: 50px;
+  border-radius: 5px;
+  color: rgba(128, 0, 128, 0.779);
+  border: 1px solid rgba(128, 0, 128, 0.779);
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 26px;
+}

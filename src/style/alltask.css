@@ -1,0 +1,13 @@
+button {
+  background-color: transparent;
+  width: 100%;
+}
+
+button a{
+  color: rgba(128, 0, 128, 0.779);
+}
+
+.p {
+  color: rgba(128, 0, 128, 0.779);
+  font-weight: 500;
+}
